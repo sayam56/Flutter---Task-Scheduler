@@ -1,6 +1,6 @@
 # cached_grinz_alpha
 
-A new Flutter project.
+A Flutter application to save, delete and rearrange tasks with lightning fast speed with added vibration feedback and sanity check.
 
 ## Getting Started
 
